@@ -1,5 +1,3 @@
-require 'colorize'
-
 class Pet
 	def initialize name, kind
 		@name = name
